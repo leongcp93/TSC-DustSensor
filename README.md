@@ -26,8 +26,11 @@ Nope: The S272GSM 3G M2M RTU is designed as a cost effective remote control syst
 
 Possible full system
 http://www.multitech.com/documents/publications/data-sheets/86002171.pdf
+
 https://help.ubidots.com/en/articles/513332-connect-a-multitech-mdot-arduino-board-to-transmit-data-to-a-conduit-gateway
+
 https://help.ubidots.com/en/articles/513328-connect-a-multiconnect-conduit-lora-to-gprs-gateway-to-ubidots-over-tcp-udp
+
 https://help.ubidots.com/en/articles/2400308-create-dashboards-and-widgets
 
 
@@ -44,9 +47,12 @@ http://www.howmuchsnow.com/arduino/airquality/grovedust/
 
 Data logging best practice:
 https://forum.pjrc.com/threads/55114-SD-Datalogging-Best-Practice-in-2019
+
 https://github.com/MichaelStetner/TeensyDataLogger/blob/master/TeensyDataLogger.ino
+
 http://makecourse.weebly.com/sd-card-data-logging.html
-SD card write imprive data rate, https://forum.arduino.cc/index.php?topic=49649.msg354701#msg354701
+
+SD card write improve data rate, https://forum.arduino.cc/index.php?topic=49649.msg354701#msg354701
 
 
 SD buffering
